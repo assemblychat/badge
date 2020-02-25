@@ -12,4 +12,4 @@ Embed the badge in a GitHub README with Markdown:
 > **Note**: Make sure you replace `<mycommunity>` with your communities' slug in both of these
 
 ## License
-This repo and all its files are licensed under MIT
+This repo and all its files are licensed under MIT.
